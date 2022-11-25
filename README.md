@@ -4,7 +4,6 @@
 
 - :zap: I love mathematics and problem-solving. 
 - 🌱 Continuous learning is a hobby. 
-- :earth_africa: I am currently sharing a little bit of my knowledge to the world through my blogs
 - 📫 How to find me: 
   - :pencil2: asogwaemmanuel36@gmail.com
   - :office: [LinkedIn](https://www.linkedin.com/in/asogwa-emmanuel-22547319b/)

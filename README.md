@@ -2,13 +2,12 @@
 
 <!--![Twitter Follow](https://img.shields.io/twitter/follow/<your_twitter_username>?style=social)-->
 
-- :zap: I love math, programming, data science, and books
-- 🌱 I’m addicted to learning and growing every day
+- :zap: I love mathematics and problem-solving. 
+- 🌱 Continuous learning is a hobby. 
 - :earth_africa: I am currently sharing a little bit of my knowledge to the world through my blogs
 - 📫 How to find me: 
-  - :bulb: [Medium articles](https://medium.com/@khuyentran1476)
-  - :pencil2: [Daily Tips](https://mathdatasimplified.com/)
-  - :office: [LinkedIn](https://www.linkedin.com/in/khuyen-tran-1ab926151/)
+  - :pencil2: asogwaemmanuel36@gmail.com
+  - :office: [LinkedIn](https://www.linkedin.com/in/asogwa-emmanuel-22547319b/)
 ---
 
 🧰 Toolbox

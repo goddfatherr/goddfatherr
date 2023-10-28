@@ -12,9 +12,10 @@ This space is dedicated to documenting the exciting projects I'm passionate abou
 - :email: asogwaemmanuel36@gmail.com
 - :office: [LinkedIn](https://www.linkedin.com/in/asogwa-emmanuel-22547319b/)
 
-
+<!--
 🧰 **Toolbox**
 
 [![Emmanuel's Github Stats](https://github-readme-stats.vercel.app/api?username=goddfather&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=goddfather)](https://github.com/anuraghazra/github-readme-stats)
+-->

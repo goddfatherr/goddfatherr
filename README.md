@@ -1,12 +1,12 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Emmanuel!
 
-I'm an undergraduate Electronics Engineering student, a tech hobbyist, and a numbers person(infinite series and integrals are fun). My key interests include:
+Undergraduate Electronics Engineering student, tech hobbyist, and a numbers whizz(infinite series and integrals are fun😄). My academic interests include:
 - :gear: Embedded Systems
 - :satellite: Internet of Things
 - :robot: Machine Learning
 - :control_knobs: Control Engineering
 
-This space is dedicated to documenting the exciting projects I'm passionate about. Feel free to explore these resources, and don't hesitate to contact me if you require additional information or have any inquiries regarding specific project details. Your feedback and collaboration are always welcome.
+This space is dedicated to documenting the exciting projects I work on. Feel free to explore these resources, and don't hesitate to contact me if you require additional information or have any inquiries regarding specific project details. Your feedback and collaboration are always welcome.
 
 📫 You can reach me at:
 - :email: asogwaemmanuel36@gmail.com

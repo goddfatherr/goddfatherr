@@ -6,13 +6,12 @@ I'm an undergraduate Electronics Engineering student, a tech hobbyist, and a num
 - :robot: Machine Learning
 - :control_knobs: Control Engineering
 
-I'm also involved in undergraduate research, focusing on Multi-Agent Systems and Adversarial Machine Learning. 
+This space is dedicated to documenting the exciting projects I'm passionate about. Feel free to explore these resources, and don't hesitate to contact me if you require additional information or have any inquiries regarding specific project details. Your feedback and collaboration are always welcome.
 
 📫 You can reach me at:
 - :email: asogwaemmanuel36@gmail.com
 - :office: [LinkedIn](https://www.linkedin.com/in/asogwa-emmanuel-22547319b/)
 
-This space is dedicated to documenting the exciting projects I'm passionate about. Feel free to explore these resources and don't hesitate to contact me if you require additional information or have any inquiries regarding specific project details.
 
 🧰 **Toolbox**
 

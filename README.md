@@ -1,7 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Emmanuel!
 
-I'm an electronics engineering student, tech hobbyist, and a numbers enthusiast. I enjoy working on a variety of hobby projects, exploring integrals, and diving into series. My primary interests revolve around:
-
+I'm an undergraduate Electronics Engineering student, a tech hobbyist, and a numbers person(infinite series and integrals are fun). My key interests include:
 - :gear: Embedded Systems
 - :satellite: Internet of Things
 - :robot: Machine Learning
@@ -12,6 +11,8 @@ I'm also involved in undergraduate research, focusing on Multi-Agent Systems and
 📫 You can reach me at:
 - :email: asogwaemmanuel36@gmail.com
 - :office: [LinkedIn](https://www.linkedin.com/in/asogwa-emmanuel-22547319b/)
+
+This space is dedicated to documenting the exciting projects I'm passionate about. Feel free to explore these resources and don't hesitate to contact me if you require additional information or have any inquiries regarding specific project details.
 
 🧰 **Toolbox**
 

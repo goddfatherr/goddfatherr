@@ -1,35 +1,20 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Emmanuel!
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Emmanuel!
 
-<!--![Twitter Follow](https://img.shields.io/twitter/follow/<your_twitter_username>?style=social)-->
+I'm an electronics engineering student, tech hobbyist, and a numbers enthusiast. I enjoy working on a variety of hobby projects, exploring integrals, and diving into series. My primary interests revolve around:
 
-- :zap: I love mathematics and problem-solving. 
-- 🌱 Continuous learning is a hobby. 
-- 📫 How to find me: 
-  - :pencil2: asogwaemmanuel36@gmail.com
-  - :office: [LinkedIn](https://www.linkedin.com/in/asogwa-emmanuel-22547319b/)
----
+- :gear: Embedded Systems
+- :satellite: Internet of Things
+- :robot: Machine Learning
+- :control_knobs: Control Engineering
 
-🧰 Toolbox
+I'm also involved in undergraduate research, focusing on Multi-Agent Systems and Adversarial Machine Learning. 
 
----
+📫 You can reach me at:
+- :email: asogwaemmanuel36@gmail.com
+- :office: [LinkedIn](https://www.linkedin.com/in/asogwa-emmanuel-22547319b/)
+
+🧰 **Toolbox**
+
 [![Emmanuel's Github Stats](https://github-readme-stats.vercel.app/api?username=goddfather&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
----
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goddfatherr)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
-
-<!--
-**goddfatherr/goddfatherr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=goddfather)](https://github.com/anuraghazra/github-readme-stats)

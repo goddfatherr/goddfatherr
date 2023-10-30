@@ -12,6 +12,14 @@ This space is dedicated to documenting the exciting projects I work on. Feel fre
 - :email: asogwaemmanuel36@gmail.com
 - :office: [LinkedIn](https://www.linkedin.com/in/asogwa-emmanuel-22547319b/)
 
+## Links to My Profiles
+
+🌐 Connect or subscribe:
+- **[Coursera Profile](https://www.coursera.org/user/fd1cd715b8a4439d4454bd26a9f79be7)**
+- **[YouTube Channel](https://[www.youtube.com/your-youtube-channel](https://studio.youtube.com/channel/UCgTD7ExCgemiXnXCeD-zk5A/videos/upload?filter=%5B%5D&sort=%7B%22columnType%22%3A%22date%22%2C%22sortOrder%22%3A%22DESCENDING%22%7D))**
+- **[Hashnode Blog](http://asogwa001.hashnode.dev)**
+- **[LinkedIn Profile](https://www.linkedin.com/in/asogwa-emmanuel-22547319b)**
+
 <!--
 🧰 **Toolbox**
 

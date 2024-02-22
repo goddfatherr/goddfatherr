@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Emmanuel!
 
-Undergraduate Electronics Engineering student and tech hobbyist. 
+Undergraduate Electronics Engineering student and hobbyist. 
 
 This space documents the exciting stuff I work on. 
 
